@@ -1,6 +1,6 @@
 # Number to Words 
 
-This is my attempt to convert number to words in python. It might not be the best approach but worth the try. 
+This is my attempt to convert number to words in python. It might not be the best approach but I tried. 
 Appreciate the feedback. 
 ```
 def number_to_words(n):
